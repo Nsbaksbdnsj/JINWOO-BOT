@@ -22,7 +22,7 @@ global.botname = process.env.BOT_NAME || 'ᴊɪɴᴡᴏᴏ ʙᴏᴛ ᴠ2'
 //Your desired bot name
 
 //=================================================//
-global.ownernumber = process.env.OWNER_NUMBER || '263714757857' 
+global.ownernumber = process.env.OWNER_NUMBER || '94782775389' 
 //Type your main number here
 
 //=================================================//
@@ -31,11 +31,11 @@ global.sudo = process.env.SUDO ? process.env.SUDO.split(',') : ['263714757857', 
 //NB: They'll be able to use every functions of the bot without restrictions.
 
 //=================================================//
-global.ownername = process.env.OWNER_NAME || 'ᴍᴀʟᴠɪɴ ᴋɪɴɢ' 
+global.ownername = process.env.OWNER_NAME || '𝗔ꜱʜᴇʟ 𝗦ʜɪʜᴀʀᴀ' 
 //Type your name here
 
 //=================================================//
-global.plink = process.env.PLINK || "https://www.youtube.com/@malvintech2"
+global.plink = process.env.PLINK || "wa.me/94782775389"
 
 //=================================================//
 global.wm = process.env.GL_WM || "©JINWOO"
@@ -53,7 +53,7 @@ global.prefixz = process.env.BOT_PREFIX || '.'
 //Set your desired prefix
 
 //=================================================//
-global.mode = process.env.MODE || 'public';
+global.mode = process.env.MODE || 'private';
 // Set 'private' to enable private mode
 // Set 'public' to enable public mode
 // Set 'group' to enable only group
@@ -68,7 +68,7 @@ global.autoviewstatus = process.env.AUTO_STATUS_VIEW || 'true'
 // set true to enable and false to disable auto status view
 
 //=================================================//
-global.autoreactstatus = process.env.AUTO_STATUS_REACT || 'false'
+global.autoreactstatus = process.env.AUTO_STATUS_REACT || 'true'
 // set true to enable and false to disable auto status react
 
 //=================================================//
@@ -111,7 +111,7 @@ global.autoread = process.env.AUTO_READ || 'false';
 // Set to 'true' to enable automatic reading of messages
 
 //=================================================//
-global.menustyle = process.env.MENU_STYLE || '2' 
+global.menustyle = process.env.MENU_STYLE || '3' 
 // options 1, 2, 3, 4 or 5
 // 1 = Document menu(Android only)
 // 2 = Text only menu(Android & iOS)
